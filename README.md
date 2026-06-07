@@ -1,55 +1,76 @@
-# 👋 Hi, I'm Rakesh Kumar
+# 👋 I'm Rakesh Kumar
 
-### Senior Engineering Leader | Vice President @ Goldman Sachs | SRE & AI Specialist
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Experience-11.5+_Years-blue?style=for-the-badge&logo=expert" alt="Experience" />
-  <img src="https://img.shields.io/badge/Main_Stack-Java_%7C_AWS_%7C_Python-orange?style=for-the-badge&logo=java" alt="Stack" />
-  <img src="https://img.shields.io/badge/Location-Birmingham,_UK-brightgreen?style=for-the-badge&logo=googlemaps" alt="Location" />
-</p>
+## Senior Engineering Leader – Automation, Agentic AI & Cloud Platforms
+**Birmingham, UK | [LinkedIn](https://www.linkedin.com/in/rakesh-kumar-a8b21869/) | rakeshjitm03@gmail.com**
 
 ---
 
-### 🚀 About Me
+### 🚀 Executive Summary
 
-I am a **Senior Engineering Leader** with over **11.5 years** of experience in building large-scale enterprise applications, architecting microservices, and leading Site Reliability Engineering (SRE) initiatives. My career spans across global financial institutions like **Goldman Sachs** and **Fidelity International**.
+Senior Software Engineering Leader with **12+ years** of experience designing and delivering automation platforms, cloud-native systems, and high-impact AI-driven solutions at scale. I specialize in leading engineering initiatives, owning end-to-end delivery, and building resilient distributed systems for global financial institutions like **Goldman Sachs** and **Fidelity International**.
 
-Currently, as a **Vice President at Goldman Sachs**, I focus on:
-- 🏗️ **Architecting Scalable Systems**: Leveraging Java, Spring Boot, and AWS to build resilient microservices.
-- ⚙️ **DevOps & Automation**: Optimizing CI/CD pipelines with Terraform, Jenkins, and Kubernetes.
-- 🤖 **Agentic AI**: Exploring and implementing AI-driven solutions to enhance productivity and system intelligence.
-- 📈 **SRE Excellence**: Ensuring high availability and performance through advanced monitoring and infrastructure as code.
+**Core Mission:** Driving operational excellence through intelligent automation, agentic AI workflows, and SRE best practices.
 
 ---
 
-### 🛠️ Core Stack & Tools
+### 🤖 Agentic AI & Intelligent Automation
 
-| Category | Skills |
+I am deeply focused on the intersection of **Generative AI** and **Reliability Engineering**.
+- **Agentic AI SRE**: Designed and built an autonomous incident triaging system using **LangChain, LangGraph, and Pydantic**. It performs log/metric analysis and root cause analysis (RCA) autonomously, significantly reducing MTTR.
+- **Intelligent Workflows**: Developed LLM-based classification and routing systems, improving support efficiency and request accuracy.
+- **Automation at Scale**: Led development of automation-first cloud platforms used globally, eliminating thousands of hours of manual effort.
+
+---
+
+### � Professional Experience
+
+#### **Goldman Sachs** | Vice President, Software Engineering | *Jul 2021 – Present*
+*   **Engineering Leadership**: Lead the development of global automation-first cloud platforms, improving engineering productivity and operational efficiency across the firm.
+*   **High-Scale Architecture**: Designed and scaled microservices handling **~20k requests per second**, ensuring fault tolerance and peak observability.
+*   **DevOps Excellence**: Standardized CI/CD pipelines for faster, predictable releases and reduced deployment risk.
+*   **AI Integration**: Pioneered the use of LangChain/LangGraph for autonomous SRE operations (diagnosis, triaging, and RCA).
+*   **Mentorship**: Cultivate an engineering culture of excellence through rigorous code reviews, design guidance, and architectural best practices.
+
+#### **Infosys** | Senior Consultant | *Mar 2021 – Jul 2021*
+*   Built automation and observability solutions integrating **ELK** and **AppDynamics**.
+*   Developed rule-based, self-healing automation to improve system uptime.
+
+#### **Fidelity International** | Senior Analyst Programmer | *Oct 2019 – Mar 2021*
+*   Architected self-service DevOps platforms to empower developers.
+*   Automated provisioning and configuration management for cloud-native tools.
+
+#### **Mercer** | Module Lead | *Dec 2018 – Oct 2019*
+*   Owned the delivery of AI-based ticket classification and routing systems.
+*   Delivered critical reporting tools for operational insights.
+
+#### **Earlier Roles** | Automation & Integration Engineer | *2014 – 2018*
+*   *Aristocrat Technologies | Infosys*
+*   Built chatbots and integration platforms, reducing manual support effort by **up to 60%**.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-005571?style=flat-square) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) |
+| **Generative AI** | **LangChain** • **LangGraph** • **Pydantic** • **LLM Workflows** |
+| **Backend & Messaging** | **Spring Boot** • **Microservices** • **Kafka** • **REST APIs** |
+| **Cloud & Infrastructure** | **AWS** • **Terraform** • **Docker** • **Kubernetes** |
+| **CI/CD & Tools** | **Jenkins** • **Git** • **Jira** • **Linux** • **PostgreSQL** |
 
 ---
 
-### 💼 Professional Journey
+### 🏆 Certifications & Education
 
-- **Vice President @ Goldman Sachs** (Jan 2024 - Present)
-  - Leading SRE and automation initiatives in Birmingham, UK.
-- **Associate @ Goldman Sachs** (Jul 2021 - Dec 2023)
-  - Focused on infrastructure automation and cloud scalability.
-- **Senior Consultant @ Infosys** (Mar 2021 - Jul 2021)
-  - Delivered complex Java-based enterprise solutions.
-- **Senior Analyst Programmer @ Fidelity International** (Oct 2019 - Mar 2021)
-  - Enhanced system reliability and performance.
-- **Module Lead @ Mercer** (Dec 2018 - Oct 2019)
-- **Engineer II @ Aristocrat** (Nov 2017 - Dec 2018)
-- **Senior System Engineer @ Infosys** (Feb 2014 - Nov 2017)
+*   **B.Tech** – Electronics & Communication Engineering
+*   **Atlassian Jira Administrator**
+*   **Dell Boomi Solution Architect**
+*   **Core Java Certification**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakeshjitm&show_icons=true&theme=radical&hide_border=true" alt="Rakesh's GitHub Stats" />
@@ -57,15 +78,6 @@ Currently, as a **Vice President at Goldman Sachs**, I focus on:
 </p>
 
 ---
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rakesh-kumar-a8b21869/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rakeshkumar.itm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <p align="center">
-  <i>"Always learning, always building, always automating."</i>
+  <i>"Transforming complex engineering challenges into intelligent, automated solutions."</i>
 </p>
-
