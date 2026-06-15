@@ -68,7 +68,7 @@ Key capabilities
 
 This platform establishes the foundation for enterprise-wide AI assistants capable of securely interacting with business-critical systems while maintaining governance and scalability.
 
-Technologies: Java • Spring Boot • MCP • REST APIs • Atlassian APIs • Agentic AI • LLM Integration
+Technologies: Python • FastMCP • MCP • REST APIs • Atlassian APIs • Agentic AI • LLM Integration
 
 ⸻
 
