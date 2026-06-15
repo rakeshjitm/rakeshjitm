@@ -10,7 +10,7 @@ Senior Engineering Leader | Platform Engineering | AI & Intelligent Automation |
 
 🚀 About Me
 
-I’m a Senior Engineering Leader with 12+ years of experience building and scaling enterprise platforms, distributed systems, and cloud-native solutions for global organizations, including Goldman Sachs, Fidelity International, Infosys, Mercer, and Aristocrat Technologies.
+I’m a Senior Engineering Leader with 12+ years of experience building and scaling enterprise platforms, distributed systems, and cloud-native solutions for global organizations, including Goldman Sachs, Fidelity International, Citi Bank, Infosys, Mercer, and Aristocrat Technologies.
 
 My expertise lies at the intersection of technical leadership, platform engineering, intelligent automation, and AI-driven software development. I enjoy solving large-scale engineering challenges, modernizing developer platforms, and enabling teams to deliver secure, resilient, and highly scalable systems.
 
