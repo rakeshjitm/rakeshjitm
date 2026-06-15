@@ -1,83 +1,206 @@
-# 👋 I'm Rakesh Kumar
+👋 Hi, I’m Rakesh Kumar
 
-## Senior Engineering Leader – Automation, Agentic AI & Cloud Platforms
-**Birmingham, UK | [LinkedIn](https://www.linkedin.com/in/rakesh-kumar-a8b21869/) | rakeshjitm03@gmail.com**
+Senior Engineering Leader | Platform Engineering | AI & Intelligent Automation | Cloud Architecture
 
----
+📍 Birmingham, United Kingdom
+🔗 LinkedIn: https://www.linkedin.com/in/rakesh-kumar-a8b21869/
+📧 rakeshjitm03@gmail.com
 
-### 🚀 Executive Summary
+⸻
 
-Senior Software Engineering Leader with **12+ years** of experience designing and delivering automation platforms, cloud-native systems, and high-impact AI-driven solutions at scale. I specialize in leading engineering initiatives, owning end-to-end delivery, and building resilient distributed systems for global financial institutions like **Goldman Sachs** and **Fidelity International**.
+🚀 About Me
 
-**Core Mission:** Driving operational excellence through intelligent automation, agentic AI workflows, and SRE best practices.
+I’m a Senior Engineering Leader with 12+ years of experience building and scaling enterprise platforms, distributed systems, and cloud-native solutions for global organizations, including Goldman Sachs, Fidelity International, Infosys, Mercer, and Aristocrat Technologies.
 
----
+My expertise lies at the intersection of technical leadership, platform engineering, intelligent automation, and AI-driven software development. I enjoy solving large-scale engineering challenges, modernizing developer platforms, and enabling teams to deliver secure, resilient, and highly scalable systems.
 
-### 🤖 Agentic AI & Intelligent Automation
+I combine hands-on architecture experience with strategic leadership, mentoring engineers, influencing technology direction, and driving engineering excellence across organizations.
 
-I am deeply focused on the intersection of **Generative AI** and **Reliability Engineering**.
-- **Agentic AI SRE**: Designed and built an autonomous incident triaging system using **LangChain, LangGraph, and Pydantic**. It performs log/metric analysis and root cause analysis (RCA) autonomously, significantly reducing MTTR.
-- **Intelligent Workflows**: Developed LLM-based classification and routing systems, improving support efficiency and request accuracy.
-- **Automation at Scale**: Led development of automation-first cloud platforms used globally, eliminating thousands of hours of manual effort.
+⸻
 
----
+🎯 Current Focus
 
-### � Professional Experience
+* Engineering Leadership & Technical Strategy
+* Platform Engineering & Developer Experience
+* Cloud-Native Architecture (AWS)
+* Distributed Systems & Event-Driven Platforms
+* AI-Powered Engineering & Agentic AI
+* Intelligent Automation & Workflow Optimization
+* Observability, Reliability Engineering & SRE
+* CI/CD Modernization & Infrastructure Automation
 
-#### **Goldman Sachs** | Vice President, Software Engineering | *Jul 2021 – Present*
-*   **Engineering Leadership**: Lead the development of global automation-first cloud platforms, improving engineering productivity and operational efficiency across the firm.
-*   **High-Scale Architecture**: Designed and scaled microservices handling **~20k requests per second**, ensuring fault tolerance and peak observability.
-*   **DevOps Excellence**: Standardized CI/CD pipelines for faster, predictable releases and reduced deployment risk.
-*   **AI Integration**: Pioneered the use of LangChain/LangGraph for autonomous SRE operations (diagnosis, triaging, and RCA).
-*   **Mentorship**: Cultivate an engineering culture of excellence through rigorous code reviews, design guidance, and architectural best practices.
+⸻
 
-#### **Infosys** | Senior Consultant | *Mar 2021 – Jul 2021*
-*   Built automation and observability solutions integrating **ELK** and **AppDynamics**.
-*   Developed rule-based, self-healing automation to improve system uptime.
+💡 Leadership Philosophy
 
-#### **Fidelity International** | Senior Analyst Programmer | *Oct 2019 – Mar 2021*
-*   Architected self-service DevOps platforms to empower developers.
-*   Automated provisioning and configuration management for cloud-native tools.
+I believe engineering leaders should enable teams rather than become bottlenecks.
 
-#### **Mercer** | Module Lead | *Dec 2018 – Oct 2019*
-*   Owned the delivery of AI-based ticket classification and routing systems.
-*   Delivered critical reporting tools for operational insights.
+My approach focuses on:
 
-#### **Earlier Roles** | Automation & Integration Engineer | *2014 – 2018*
-*   *Aristocrat Technologies | Infosys*
-*   Built chatbots and integration platforms, reducing manual support effort by **up to 60%**.
+* Building high-performing engineering cultures
+* Driving architecture through simplicity and scalability
+* Leveraging AI to enhance developer productivity
+* Automating repetitive operational processes
+* Creating platforms that empower teams to move faster
+* Balancing innovation with operational excellence
 
----
+⸻
 
-### 🛠️ Technical Ecosystem
+🏗️ Selected Engineering Initiatives
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Generative AI** | **LangChain** • **LangGraph** • **Pydantic** • **LLM Workflows** |
-| **Backend & Messaging** | **Spring Boot** • **Microservices** • **Kafka** • **REST APIs** |
-| **Cloud & Infrastructure** | **AWS** • **Terraform** • **Docker** • **Kubernetes** |
-| **CI/CD & Tools** | **Jenkins** • **Git** • **Jira** • **Linux** • **PostgreSQL** |
+☁️ Enterprise Cloud Platform Engineering
 
----
+* Architected and evolved AWS-hosted backend platforms supporting globally distributed teams.
+* Designed highly scalable Java/Spring Boot services processing ~20K requests per second.
+* Improved reliability through infrastructure automation, performance optimization, and resilient service design.
 
-### 🏆 Certifications & Education
+⸻
 
-*   **B.Tech** – Electronics & Communication Engineering
-*   **Atlassian Jira Administrator**
-*   **Dell Boomi Solution Architect**
-*   **Core Java Certification**
+🤖 Agentic AI for Engineering Operations
 
----
+Designed and built autonomous AI workflows using:
 
-### 📊 GitHub Insights
+* LangChain
+* LangGraph
+* Pydantic
+* LLM-powered orchestration
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakeshjitm&show_icons=true&theme=radical&hide_border=true" alt="Rakesh's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshjitm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+Capabilities include:
 
----
-<p align="center">
-  <i>"Transforming complex engineering challenges into intelligent, automated solutions."</i>
-</p>
+* Incident triaging
+* Automated log analysis
+* Root cause analysis (RCA)
+* Intelligent workflow execution
+* Context-aware engineering assistance
+
+⸻
+
+🧠 AI-Powered Question Categorizer & Response Router
+
+Built an intelligent routing platform combining:
+
+* Spring Boot
+* Python
+* React
+* LLM-assisted classification
+
+The solution automates support request categorization, improves knowledge discovery, and accelerates issue resolution through AI-driven decision making.
+
+⸻
+
+⚙️ Platform Automation & Developer Productivity
+
+Delivered automation frameworks and internal tooling that:
+
+* Standardized CI/CD pipelines
+* Automated release validation
+* Reduced operational overhead
+* Improved deployment reliability
+* Enhanced engineering productivity through reusable platform services
+
+⸻
+
+📊 Observability & Reliability Engineering
+
+Implemented modern operational practices including:
+
+* Log and metric-driven diagnostics
+* Production troubleshooting
+* Root cause analysis
+* Monitoring and alerting improvements
+* Cloud-native observability
+* Operational excellence initiatives
+
+⸻
+
+🛠️ Technical Expertise
+
+Languages
+
+* Java
+* Python
+* SQL
+* Groovy
+* JavaScript
+
+Backend & Distributed Systems
+
+* Spring Boot
+* Microservices
+* Kafka
+* REST APIs
+* Event-Driven Architecture
+
+Cloud & Platform Engineering
+
+* AWS
+* Terraform
+* Docker
+* Kubernetes
+* Linux
+
+DevOps & Automation
+
+* Jenkins
+* GitHub Actions
+* CI/CD
+* Infrastructure as Code
+* Platform Automation
+
+AI & Intelligent Systems
+
+* LangChain
+* LangGraph
+* Pydantic AI
+* Agentic AI
+* LLM Workflows
+* AI-assisted Engineering
+* Intelligent Automation
+
+Observability
+
+* CloudWatch
+* ELK/OpenSearch
+* AppDynamics
+* Prometheus
+* Grafana
+* OpenTelemetry
+
+⸻
+
+🌱 What You’ll Find Here
+
+This GitHub serves as my engineering portfolio and learning lab.
+
+It contains:
+
+* AI and Agentic AI projects
+* Enterprise automation frameworks
+* Java and Spring Boot applications
+* Kafka and distributed systems experiments
+* Cloud-native platform implementations
+* Infrastructure-as-Code examples
+* DevOps and CI/CD tooling
+* System design references
+* Architecture patterns
+* Engineering best practices
+* Technical blogs and documentation
+
+⸻
+
+🤝 Open To
+
+* Senior Engineering Leadership
+* Engineering Manager
+* Principal Engineer
+* Staff Engineer
+* Platform Engineering
+* Cloud Architecture
+* AI Platform Engineering
+* Developer Productivity
+* Intelligent Automation
+* Technical Advisory & Consulting
+
+⸻
+
+Building intelligent platforms, empowering engineering teams, and leveraging AI to shape the future of software delivery.
