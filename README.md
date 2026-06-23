@@ -21,7 +21,7 @@ My passion lies in transforming complex engineering challenges into scalable, re
 📈 Engineering Highlights
 
 * 💼 12+ years of enterprise software engineering experience
-* ☁️ Vice President, Software Engineering at Goldman Sachs
+* ☁️ Vice President, SDLC Engineering at Goldman Sachs
 * 🚀 Designed and scaled distributed systems handling ~20,000 requests per second
 * 🤖 Built Enterprise MCP Servers enabling AI Agents to interact with Jira and Confluence
 * 🧠 Driving adoption of Agentic AI and intelligent automation across engineering workflows
