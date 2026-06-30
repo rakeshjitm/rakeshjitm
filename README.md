@@ -1,321 +1,85 @@
-👋 Hi, I’m Rakesh Kumar
+# 👋 Hi, I’m Rakesh Kumar
 
-Senior Engineering Leader | Platform Engineering | AI & Agentic Systems | Cloud Architecture | Enterprise Automation
+## Senior Software Engineer (SVP) • Transaction Banking • API Platforms • Distributed Systems • Cloud • Banking
 
-📍 Birmingham, United Kingdom
-🔗 LinkedIn: https://www.linkedin.com/in/rakesh-kumar-a8b21869/
+📍 Birmingham, United Kingdom  
+🔗 LinkedIn: https://www.linkedin.com/in/rakesh-kumar-a8b21869/  
 📧 Email: rakeshjitm03@gmail.com
 
-⸻
+---
 
-🚀 Executive Summary
+## 🔥 About Me
 
-I’m a Senior Engineering Leader with 12+ years of experience building and scaling enterprise platforms, cloud-native systems, distributed architectures, and intelligent automation solutions for global organizations including Goldman Sachs, Fidelity International, Infosys, Mercer, and Aristocrat Technologies.
+I’m a hands-on **Software Engineer (SVP)** with **12+ years of experience** building large-scale enterprise platforms, secure integrations, cloud-native services, and distributed systems across global banking environments.
 
-Throughout my career, I’ve led strategic engineering initiatives spanning Platform Engineering, AI-driven automation, Developer Experience, Cloud Infrastructure, Observability, and Enterprise Integration, combining deep technical expertise with strong leadership and execution.
+My current work is strongly aligned to **transaction banking**, **API platforms**, **secure partner integrations**, and **engineering tooling at scale**. I specialize in building reliable backend systems using **Java**, **Python**, **Spring Boot**, **Kafka**, **AWS**, and modern platform engineering practices.
 
-My passion lies in transforming complex engineering challenges into scalable, resilient, and intelligent platforms that empower both developers and businesses.
+My work has included:
 
-⸻
+- 💸 **Transaction banking and payment-related engineering**
+- 🔐 **Secure API integrations** using **TLS / mTLS**, governed onboarding, and enterprise access patterns
+- ☁️ **Cloud-native engineering** with **AWS**, **Terraform**, **Docker**, and **CI/CD**
+- 🧵 **Distributed systems** and **event-driven architectures** with **Kafka**
+- 🤖 **AI-enabled platform services** using **MCP**, agent workflows, and intelligent automation
+- 📊 **Observability modernization** with **Prometheus**, **Grafana**, **PagerDuty**, **ELK**, and **CloudWatch**
+- 🏦 Engineering in **highly regulated banking environments**
+- 👥 Technical leadership across architecture, delivery, troubleshooting, and engineering standards
 
-📈 Engineering Highlights
+---
 
-* 💼 12+ years of enterprise software engineering experience
-* ☁️ Vice President, SDLC Engineering at Goldman Sachs
-* 🚀 Designed and scaled distributed systems handling ~20,000 requests per second
-* 🤖 Built Enterprise MCP Servers enabling AI Agents to interact with Jira and Confluence
-* 🧠 Driving adoption of Agentic AI and intelligent automation across engineering workflows
-* 📊 Modernized observability using Prometheus, Grafana, PagerDuty, and AI-powered diagnostics
-* 🏛️ Architected enterprise regulatory retention platform supporting 80K+ users and 200K+ Confluence assets
-* ⚙️ Delivered cloud-native automation platforms used by globally distributed engineering teams
-* 👥 Passionate mentor, technical leader, architecture reviewer, and engineering coach
+## 🛠 Tech Stack
 
-⸻
+**Languages**  
+Java • Python • Groovy • JavaScript • SQL
 
-🎯 Leadership Philosophy
+**Backend & Distributed Systems**  
+Spring Boot • Microservices • REST APIs • Kafka • Event-Driven Architecture
 
-I believe engineering leaders should create leverage—not bottlenecks.
+**Payments & Banking**  
+Transaction Banking • Payment-related Services • Secure Partner Integrations • Regulated Financial Data Flows
 
-My focus is on:
+**Cloud & DevOps**  
+AWS • Terraform • Docker • Linux • Jenkins • CI/CD
 
-* Building high-performing engineering organizations
-* Empowering developers through platform engineering
-* Leveraging AI to enhance engineering productivity
-* Driving architectural excellence and operational resilience
-* Creating automation-first engineering cultures
-* Aligning technology strategy with business outcomes
+**Security & Integration**  
+TLS • mTLS • Secure API Design • SIFF Identity Framework • Governed Integrations
 
-⸻
+**Observability & Reliability**  
+Prometheus • Grafana • PagerDuty • CloudWatch • ELK / OpenSearch • AppDynamics
 
-🏦 Engineering Impact at Goldman Sachs
+**AI & Platform Engineering**  
+MCP • Agentic AI • AI-assisted Engineering • Workflow Automation • Internal Developer Platforms
 
-As Vice President, Software Engineering, I have led multiple strategic initiatives that modernize enterprise platforms, accelerate AI adoption, improve regulatory compliance, and strengthen operational resilience.
+---
 
-🤖 Enterprise MCP Platform for AI Integration
+## 🚀 Current Focus
 
-Designed and developed multiple Model Context Protocol (MCP) Servers that expose enterprise applications as AI-native platforms.
+- Building **transaction banking-aligned** engineering capabilities in a world-leading bank
+- Designing **secure, governed API integrations** and onboarding workflows
+- Developing **MCP-based AI integrations** and platform automation
+- Improving **release confidence**, **observability**, and **operational resilience**
+- Building reusable platform capabilities that make engineering teams faster and safer
 
-One of the flagship implementations was a comprehensive Atlassian MCP Server, enabling AI agents and LLM-powered assistants to securely interact with Jira and Confluence through standardized protocols.
+---
 
-Key capabilities
+## 🏆 Professional Snapshot
 
-* Search and retrieve Confluence knowledge
-* Create and update Jira issues
-* Execute workflow transitions
-* Query project metadata
-* Automate engineering tasks using natural language
-* Provide contextual information to autonomous AI agents
+- **Senior Vice President** in engineering within a world-leading banking organisation
+- Designed and scaled services handling **~20K requests per second**
+- Built multiple **MCP servers**, including an **Atlassian MCP Server**
+- Delivered secure integration and onboarding capabilities using **SIFF Identity Framework**
+- Architected an enterprise platform supporting **80K+ users** and **200K+ content assets**
+- Built AI-powered workflow automation using **Java**, **Python**, and **React**
+- Improved production support and engineering confidence through automation and observability
 
-This platform establishes the foundation for enterprise-wide AI assistants capable of securely interacting with business-critical systems while maintaining governance and scalability.
+---
 
-Technologies: Python • FastMCP • MCP • REST APIs • Atlassian APIs • Agentic AI • LLM Integration
+## 🤝 Open To
 
-⸻
+Transaction Banking • Payments Engineering • API Platforms • Distributed Systems • Platform Engineering • Cloud Architecture • AI Platform Development • Technical Leadership
 
-📈 AI-Ready Observability Platform
-
-Led the modernization of monitoring and operational intelligence across enterprise Atlassian platforms.
-
-Implemented a next-generation observability ecosystem integrating:
-
-* Prometheus
-* Grafana
-* PagerDuty
-* Custom metrics pipelines
-* AI-powered operational analysis
-
-The platform combines telemetry with LLM capabilities to enable:
-
-* Automated incident summarization
-* Intelligent alert correlation
-* Root cause analysis assistance
-* Context-aware diagnostics
-* Proactive anomaly detection
-* Improved spike resilience during production events
-
-This initiative significantly enhanced engineering productivity while reducing operational overhead and accelerating incident response.
-
-⸻
-
-🏛️ Enterprise Regulatory Retention Feed Platform
-
-Architected and delivered an enterprise-scale retention feed solution to satisfy regulatory requirements for Confluence content lifecycle management.
-
-Platform capabilities
-
-* Real-time content creation capture
-* Real-time update detection
-* Delete event propagation
-* Event transformation into retention-compliant formats
-* Reliable synchronization with centralized compliance systems
-
-The solution successfully scaled to support:
-
-* 80,000+ enterprise users
-* 200,000+ Confluence pages and documents
-* Large-scale enterprise content synchronization with near real-time consistency
-
-One of the most challenging aspects was designing an event-driven architecture capable of reliably capturing create/update/delete operations while maintaining ordering guarantees, scalability, and regulatory compliance.
-
-⸻
-
-🚀 Platform Engineering & Developer Productivity
-
-Built automation-first engineering platforms focused on improving developer experience and accelerating software delivery.
-
-Key contributions include:
-
-* Standardized CI/CD pipelines
-* Infrastructure automation
-* Environment validation frameworks
-* Release orchestration
-* Internal developer tooling
-* Self-service engineering capabilities
-
-These initiatives reduced manual effort, improved deployment consistency, and enabled engineering teams to focus on delivering business value.
-
-⸻
-
-🤖 AI & Intelligent Engineering
-
-I’m deeply interested in how Generative AI can transform enterprise software engineering.
-
-Current focus areas include:
-
-* Agentic AI architectures
-* Model Context Protocol (MCP)
-* LangChain
-* LangGraph
-* Pydantic AI
-* Multi-agent systems
-* AI-powered developer productivity
-* Intelligent workflow automation
-* Autonomous incident response
-* AI-assisted platform operations
-
-I believe the future of software engineering lies in collaborative intelligence between engineers and AI agents.
-
-⸻
-
-🛠️ Technical Expertise
-
-Languages
-
-* Java
-* Python
-* SQL
-* Groovy
-* JavaScript
-
-Backend & Distributed Systems
-
-* Spring Boot
-* Microservices
-* Kafka
-* REST APIs
-* Event-Driven Architecture
-* Distributed Systems Design
-
-Cloud & Platform Engineering
-
-* AWS
-* Terraform
-* Docker
-* Kubernetes
-* Linux
-
-DevOps & Automation
-
-* Jenkins
-* GitHub Actions
-* CI/CD
-* Infrastructure as Code
-* Platform Automation
-* Release Engineering
-
-AI & Agentic Systems
-
-* LangChain
-* LangGraph
-* MCP (Model Context Protocol)
-* Pydantic AI
-* LLM Orchestration
-* AI Agents
-* Intelligent Automation
-* Prompt Engineering
-
-Observability & Reliability
-
-* Prometheus
-* Grafana
-* PagerDuty
-* CloudWatch
-* ELK/OpenSearch
-* AppDynamics
-* OpenTelemetry
-* Site Reliability Engineering
-
-⸻
-
-🏢 Professional Journey
-
-Goldman Sachs
-
-Vice President, Software Engineering
-
-Leading enterprise platform engineering initiatives focused on cloud-native architecture, AI enablement, automation, observability, and developer productivity.
-
-⸻
-
-Fidelity International
-
-Senior Analyst Programmer
-
-Built self-service DevOps platforms, cloud integrations, automation frameworks, and operational tooling to improve engineering efficiency.
-
-⸻
-
-Infosys
-
-Senior Consultant / Senior Systems Engineer
-
-Designed automation platforms, monitoring solutions, developer tooling, enterprise integrations, and chatbot solutions while leading platform modernization initiatives.
-
-⸻
-
-Mercer
-
-Module Lead
-
-Delivered AI-inspired workflow automation, enterprise Jira integrations, reporting platforms, and intelligent ticket routing systems.
-
-⸻
-
-Aristocrat Technologies
-
-Engineer II
-
-Developed enterprise integration platforms and automation solutions across the Atlassian ecosystem, improving operational efficiency and reducing manual effort.
-
-⸻
-
-🌱 What You’ll Find Here
-
-This GitHub repository serves as my engineering portfolio and technology playground.
-
-Projects include:
-
-* Enterprise AI & Agentic AI
-* MCP Servers
-* Platform Engineering
-* Java & Spring Boot Applications
-* Kafka & Event-Driven Systems
-* Cloud-Native Architectures
-* Infrastructure as Code
-* DevOps & Automation
-* AI-Powered Engineering Tools
-* Distributed Systems
-* System Design
-* Technical Documentation
-* Engineering Experiments
-
-⸻
-
-🏆 Certifications
-
-* Atlassian Certified Jira Administrator
-* Dell Boomi Solution Architect Professional
-* Dell Boomi Integration Developer Professional
-* Infosys Core Java Certification
-
-⸻
-
-📊 GitHub Stats
+---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakeshjitm&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshjitm&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-⸻
-
-🤝 Open To
-
-I’m always interested in conversations around:
-
-* Engineering Leadership
-* Principal & Staff Engineering
-* Platform Engineering
-* AI Platform Development
-* Agentic AI
-* Enterprise Architecture
-* Cloud Transformation
-* Developer Productivity
-* Intelligent Automation
-* Technical Strategy & Innovation
-
-⸻
-
-<p align="center">
-  <b>"Building intelligent platforms, empowering engineering teams, and shaping the future of software through AI, automation, and scalable architecture."</b>
+  <b>"Building secure, scalable platforms and intelligent engineering systems for the future of banking and APIs."</b>
 </p>
